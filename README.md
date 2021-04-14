@@ -3,7 +3,7 @@
       Hoje estou estudando JavaScript e estou buscando uma oportunidade para recomeçar minha carreira como desenvolvedor.
 -  Atualmente fazendo o curso 'JavaScript Web Moderno' pela Cod3r na UDEMY.
 - 📫 pradocbruno@gmail.com
-https://www.linkedin.com/in/brunocprado/
+- 📫 https://www.linkedin.com/in/brunocprado/
      
 
 <!---
