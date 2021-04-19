@@ -1,7 +1,7 @@
 -  Olá tudo bem? Eu me chamo Bruno Prado.  
 -  já trabalhei em alguns projetos com C# no passado. 
       Hoje estou estudando JavaScript e estou buscando uma oportunidade para recomeçar minha carreira como desenvolvedor.
--  Atualmente fazendo o curso 'JavaScript Web Moderno' pela Cod3r na UDEMY.
+-  Atualmente fazendo o curso 'JavaScript Web Moderno' pela Cod3r na UDEMY e um bootcamp .net na DIO.
 - 📫 pradocbruno@gmail.com
 - 📫 https://www.linkedin.com/in/brunocprado/
      
